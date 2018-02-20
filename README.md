@@ -1,0 +1,6 @@
+# ArtigoSLMP-TecSoc
+Software Livre e Metodologias Participativas – Desafios de uma disciplina na graduação e no mestrado
+
+RESUMO: Este artigo tem como objetivo relatar a experiência da disciplina Software Livre e Metodologias Participativas, ministrada no Departamento de Engenharia Eletrônica (DEL/POLI) da UFRJ desde 2011. Esta disciplina atualmente é optativa para alunos de cursos de Engenharia Eletrônica, de Computação, do curso de Ciência da Computação e do Mestrado Profissional em Tecnologia para o Desenvolvimento Social. Ao longo desses anos, foram 6 turmas já finalizadas, 4 na graduação, uma combinando mestrado e graduação e uma apenas com alunos do mestrado. A disciplina é composta por uma primeira metade teórica, e outra com foco em trabalhos práticos de desenvolvimento de software a partir da demanda de grupos sociais. Como principais resultados, a disciplina gerou softwares que estão em uso, teve como desdobramento alguns projetos de extensão e permitiu que os alunos vislumbrassem outras possibilidades profissionais através das reflexões sobre software livre, métodos ágeis, design participativo e tecnologias sociais.
+
+PALAVRAS-CHAVE: Ensino de Engenharia; Engenharia de Software; Software Livre; Design Participativo; Ciência, Tecnologia e Sociedade; Métodos Ágeis
